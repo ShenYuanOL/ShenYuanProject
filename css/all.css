@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    width: 100%;
+}
+
+.main{
+    width: 100%;
+}
+
+.group{
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid-item {
+    text-align: center;
+}

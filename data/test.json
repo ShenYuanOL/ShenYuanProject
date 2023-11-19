@@ -1,0 +1,164 @@
+{
+    "entity": {
+        "friendly": {
+            "1": {
+                "imge": "data/img/test.jpg",
+                "enname": "test1",
+                "zhname": "友好生物1",
+                "text": "这是友好生物1的介绍"
+            },
+            "2": {
+                "imge": "data/img/test.jpg",
+                "enname": "test2",
+                "zhname": "友好生物2",
+                "text": "这是友好生物2的介绍"
+            },
+            "3": {
+                "imge": "data/img/test.jpg",
+                "enname": "test3",
+                "zhname": "友好生物3",
+                "text": "这是友好生物3的介绍"
+            },
+            "4": {
+                "imge": "data/img/test.jpg",
+                "enname": "test4",
+                "zhname": "友好生物4",
+                "text": "这是友好生物4的介绍"
+            },
+            "5": {
+                "imge": "data/img/test.jpg",
+                "enname": "test5",
+                "zhname": "友好生物5",
+                "text": "这是友好生物5的介绍"
+            }
+        },
+        "neutral": {
+            "1": {
+                "imge": "data/img/test.jpg",
+                "enname": "test1",
+                "zhname": "中立生物1",
+                "text": "这是中立生物1的介绍"
+            },
+            "2": {
+                "imge": "data/img/test.jpg",
+                "enname": "test2",
+                "zhname": "中立生物2",
+                "text": "这是中立生物2的介绍"
+            },
+            "3": {
+                "imge": "data/img/test.jpg",
+                "enname": "test3",
+                "zhname": "中立生物3",
+                "text": "这是中立生物3的介绍"
+            },
+            "4": {
+                "imge": "data/img/test.jpg",
+                "enname": "test4",
+                "zhname": "中立生物4",
+                "text": "这是中立生物4的介绍"
+            },
+            "5": {
+                "imge": "data/img/test.jpg",
+                "enname": "test5",
+                "zhname": "中立生物5",
+                "text": "这是中立生物5的介绍"
+            }
+        },
+        "hostile": {
+            "1": {
+                "imge": "data/img/test.jpg",
+                "enname": "test1",
+                "zhname": "敌对生物1",
+                "text": "这是敌对生物1的介绍"
+            },
+            "2": {
+                "imge": "data/img/test.jpg",
+                "enname": "test2",
+                "zhname": "敌对生物2",
+                "text": "这是敌对生物2的介绍"
+            },
+            "3": {
+                "imge": "data/img/test.jpg",
+                "enname": "test3",
+                "zhname": "敌对生物3",
+                "text": "这是敌对生物3的介绍"
+            },
+            "4": {
+                "imge": "data/img/test.jpg",
+                "enname": "test4",
+                "zhname": "敌对生物4",
+                "text": "这是敌对生物4的介绍"
+            },
+            "5": {
+                "imge": "data/img/test.jpg",
+                "enname": "test5",
+                "zhname": "敌对生物5",
+                "text": "这是敌对生物5的介绍"
+            }
+        }
+    },
+    "item": {
+        "1": {
+            "imge": "data/img/test.jpg",
+            "enname": "test1",
+            "zhname": "物品1",
+            "text": "这是物品1的介绍"
+        },
+        "2": {
+            "imge": "data/img/test.jpg",
+            "enname": "test2",
+            "zhname": "物品2",
+            "text": "这是物品2的介绍"
+        },
+        "3": {
+            "imge": "data/img/test.jpg",
+            "enname": "test3",
+            "zhname": "物品3",
+            "text": "这是物品3的介绍"
+        },
+        "4": {
+            "imge": "data/img/test.jpg",
+            "enname": "test4",
+            "zhname": "物品4",
+            "text": "这是物品4的介绍"
+        },
+        "5": {
+            "imge": "data/img/test.jpg",
+            "enname": "test5",
+            "zhname": "物品5",
+            "text": "这是物品5的介绍"
+        }
+    },
+    "block": {
+        "1": {
+            "imge": "data/img/test.jpg",
+            "enname": "test1",
+            "zhname": "方块1",
+            "text": "这是方块1的介绍"
+        },
+        "2": {
+            "imge": "data/img/test.jpg",
+            "enname": "test2",
+            "zhname": "方块2",
+            "text": "这是方块2的介绍"
+        },
+        "3": {
+            "imge": "data/img/test.jpg",
+            "enname": "test3",
+            "zhname": "方块3",
+            "text": "这是方块3的介绍"
+        },
+        "4": {
+            "imge": "data/img/test.jpg",
+            "enname": "test4",
+            "zhname": "方块4",
+            "text": "这是方块4的介绍"
+        },
+        "5": {
+            "imge": "data/img/test.jpg",
+            "enname": "test5",
+            "zhname": "方块5",
+            "text": "这是方块5的介绍"
+        }
+    }
+}
